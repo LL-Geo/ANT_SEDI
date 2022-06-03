@@ -1,0 +1,26 @@
+rift2d_NewStrata.dat
+rift.out
+sim5r_tec.dat     
+sfc_tec.dat
+prf1_tec.dat
+prf2_tec.dat
+prf3_tec.dat
+prf4_tec.dat
+prf5_tec.dat
+prf6_tec.dat
+elem1_tec.dat
+elem2_tec.dat
+elem3_tec.dat
+elem4_tec.dat
+elem5_tec.dat
+elem6_tec.dat
+
+COMMENT LINES:
+jurassic3.dat    - Data deck from example #1, Chp. 6, p. 98
+heat_2d.dat      - Data deck from example #2, Chp. 6, p. 119
+overpres_1d.dat  - Data deck from example #1, Chp. 7, p. 129
+heat_2d.dat      - Data deck from example #2, Chp. 7, p. 133
+oil_1d.dat     - Data deck from example #3, Chp. 7, p. 136
+brine.dat    - Data deck from example #4, Chp. 7, p. 138
+unload1.dat      - Data deck from example #5, Chp. 7, p. 140
+
