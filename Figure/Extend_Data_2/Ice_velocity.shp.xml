@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220603</CreaDate><CreaTime>21361000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ContourWithBarriers" Date="20211103" Time="152927">ContourWithBarriers ice_velocity C:\Users\22528618\Desktop\ST1figure\ice_vel_b.shp # POLYLINES # NO_EXPLICIT_VALUES_ONLY 0 10 0 30;50;100 1</Process></lineage></DataProperties></Esri></metadata>

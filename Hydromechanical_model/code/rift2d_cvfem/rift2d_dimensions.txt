@@ -1,0 +1,20 @@
+!    maxnodes - maximum number of nodes in mesh
+!    maxelems - maximum number of triangular elements in mesh
+!    maxwdt   - maximum bandwidth for gaussian elimination routine
+!                   maxwdt = 2*(nrows+2) + 1
+!               where nrows - maximum number of nodal rows
+!    maxbnds - maximum number of perimeter nodes of mesh
+!                   maxbnds = 2*ncols + 2*(nrows-2)
+!               where ncols - maximum number of nodal columns
+!    maxmats - maximum number of hydrostratigraphic units
+!    maxflts - maximum number of faults
+!    maxrows - maximum number of nodal rows
+!    maxcols - maximum number of nodal columns
+
+      parameter(maxnodes=20000, maxelems=40000, maxwdt=200)
+      parameter(maxbnds=400, maxmats=9, maxflts=20)
+      parameter(maxcols=200, maxrows=60)
+
+!
+
+

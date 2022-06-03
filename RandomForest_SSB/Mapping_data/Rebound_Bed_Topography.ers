@@ -1,0 +1,28 @@
+DatasetHeader Begin
+	Version	= "6.0"
+	Name	= "Rebound_Bed_Topography.ers"
+	DataSetType	= ERStorage
+	DataType	= Raster
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum	= "EPSG:3031"
+		Projection	= "EPSG:3031"
+		CoordinateType	= EN
+		Units	= "METERS"
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	RasterInfo Begin
+		CellType	= IEEE4ByteReal
+		NrOfLines	= 667
+		NrOfCellsPerLine	= 667
+		NrOfBands	= 1
+		CellInfo Begin
+			Xdimension	= 10000
+			Ydimension	= 10000
+		CellInfo End
+		RegistrationCoord Begin
+			Eastings	= -3335000
+			Northings	= 3335000
+		RegistrationCoord End
+	RasterInfo End
+DatasetHeader End

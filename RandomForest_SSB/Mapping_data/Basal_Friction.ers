@@ -1,0 +1,22 @@
+DatasetHeader Begin
+	Version	= "6.0"
+	Name	= "Basal_Friction.ers"
+	DataSetType	= ERStorage
+	DataType	= Raster
+	ByteOrder	= LSBFirst
+	RasterInfo Begin
+		CellType	= IEEE4ByteReal
+		NrOfLines	= 453
+		NrOfCellsPerLine	= 552
+		NrOfBands	= 1
+		CellInfo Begin
+			Xdimension	= 10000
+			Ydimension	= 10000
+		CellInfo End
+		RegistrationCoord Begin
+			Eastings	= -2705000
+			Northings	= 2215000
+		RegistrationCoord End
+		NullCellValue	= -999999
+	RasterInfo End
+DatasetHeader End
